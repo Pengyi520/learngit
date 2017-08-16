@@ -1,7 +1,5 @@
 package com.qihoo360.replugin.sample.util;
 
-import retrofit2.http.HEAD;
-
 /**
  * Created by pengyi on 2017/8/16.
  */
