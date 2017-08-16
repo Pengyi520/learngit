@@ -10,5 +10,6 @@ public class Test {
         System.out.print("hello world");
         System.out.print("hello world master");
         System.out.print("hello world dev");
+        System.out.print("hello world dev2");
     }
 }
